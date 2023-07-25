@@ -1,0 +1,340 @@
+﻿Voice Product,Contract Term,USOC CODE FOR VOICE PRODUCT,Parent Product (Extra Product),USOC code for Extra Product,Bundle (Internet Product),Line Type Determined by the voice line,Product Access Technology,Copper Download Speed,,Copper Upload Speed,USOC code for Internet Product
+Business Line 1FL,Monthly,RQ1FL,Long Distance Pak 300,LDPL1,Business Internet Service,Business Line 1FL,,,,,BDSLB
+Local Link - Self Serve,Monthly,RLLBQ,Long Distance Preferred Pak,LDPL2,Business Internet Service,Local Link,,,,,RDSLB
+Business Line 1FL,1 Year,RQPB1,Long Distance Per Minute,LDPL3,,,,,,,
+Business Line 1FL,1 Year,SRA12,Long Distance Pak 1200,LDPL4,Good Copper - ATM (Monthly),,Copper,< 1,,,DSLBS
+Business Line 1FL,2 Years,RQPB2,Long Distance Pak 2400,LDPL5,Good Copper - ATM (Monthly),,Copper,[1,2[,,DSLST
+Business Line 1FL,2 Years,SRA24,,,Good Copper - ATM (Monthly),,Copper,[2,3[,,DSLSU
+Business Line 1FL,3 Years,RQPB3,Call Answer - Voice,NRCTX,Good Copper - ATM (Monthly),,Copper,[3,4[,,DSL15
+Business Line 1FL,3 Years,SRA36,Call Answer - Voice,VMEXX,Good Copper - ATM (Monthly),,Copper,≥ 4,,,B1HVA
+Business Line 1FL,4 Years,RQPB4,No calling restrictions,VMFXX,Good Copper - ATM (1 Year),,Copper,< 1,,,DSLBS
+Business Line 1FL,4 Years,SRA48,Long Distance Call Blocking,NCOSO,Good Copper - ATM (1 Year),,Copper,[1,2[,,DSLST
+Business Line 1FL,5 Years,RQPB5,900/976 & 411 Call Blocking,NCOS2,Good Copper - ATM (1 Year),,Copper,[2,3[,,DSLSU
+Business Line 1FL,5 Years,SRA5E,Single Line with optional voice mail,NCOS7,Good Copper - ATM (1 Year),,Copper,[3,4[,,DSL15
+Local Link - Self Serve,1 Year,RLPQ1,Single Line with voice mail,FTRPA,Good Copper - ATM (1 Year),,Copper,≥ 4,,,B1HVA
+Local Link - Self Serve,2 Years,RLPQ2,Multi Line with hunting,FTRAX,Good Copper - ATM (2 Years),,Copper,< 1,,,DSLBS
+Local Link - Self Serve,3 Years,RLPQ3,Multi Line with hunting with voicemail,FTRPB,Good Copper - ATM (2 Years),,Copper,[1,2[,,DSLST
+Local Link - Self Serve,4 Years,RLPQ4,,,Good Copper - ATM (2 Years),,Copper,[2,3[,,DSLSU
+Local Link - Self Serve,5 Years,RLPQ5,,,Good Copper - ATM (2 Years),,Copper,[3,4[,,DSL15
+Local Link - Self Serve,1 Year,EXX12,,,Good Copper - ATM (2 Years),,Copper,≥ 4,,,B1HVA
+Local Link - Self Serve,2 Years,EXX24,,,Good Copper - ATM (3 Years),,Copper,< 1,,,DSLBS
+Local Link - Self Serve,3 Years,EXX36,,,Good Copper - ATM (3 Years),,Copper,[1,2[,,DSLST
+Local Link - Self Serve,4 Years,EXX48,,,Good Copper - ATM (3 Years),,Copper,[2,3[,,DSLSU
+Local Link - Self Serve,5 Years,EXX5E,,,Good Copper - ATM (3 Years),,Copper,[3,4[,,DSL15
+,,,,,Good Copper - ATM (3 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Good Copper - ATM (5 Years),,Copper,< 1,,,DSLBS
+,,,,,Good Copper - ATM (5 Years),,Copper,[1,2[,,DSLST
+,,,,,Good Copper - ATM (5 Years),,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - ATM (5 Years),,Copper,[3,4[,,DSL15
+,,,,,Good Copper - ATM (5 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Better Copper - ATM (Monthly),,Copper,< 1,,,DSLBS
+,,,,,Better Copper - ATM (Monthly),,Copper,[1,2[,,DSLST
+,,,,,Better Copper - ATM (Monthly),,Copper,[2,3[,,DSLSU
+,,,,,Better Copper - ATM (Monthly),,Copper,[3,4[,,DSL15
+,,,,,Better Copper - ATM (Monthly),,Copper,≥ 4,,,B1HVA
+,,,,,Better Copper - ATM (1 Year),,Copper,< 1,,,DSLBS
+,,,,,Better Copper - ATM (1 Year),,Copper,[1,2[,,DSLST
+,,,,,Better Copper - ATM (1 Year),,Copper,[2,3[,,DSLSU
+,,,,,Better Copper - ATM (1 Year),,Copper,[3,4[,,DSL15
+,,,,,Better Copper - ATM (1 Year),,Copper,≥ 4,,,B1HVA
+,,,,,Better Copper - ATM (2 Years),,Copper,< 1,,,DSLBS
+,,,,,Better Copper - ATM (2 Years),,Copper,[1,2[,,DSLST
+,,,,,Better Copper - ATM (2 Years),,Copper,[2,3[,,DSLSU
+,,,,,Better Copper - ATM (2 Years),,Copper,[3,4[,,DSL15
+,,,,,Better Copper - ATM (2 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Better Copper - ATM (3 Years),,Copper,< 1,,,DSLBS
+,,,,,Better Copper - ATM (3 Years),,Copper,[1,2[,,DSLST
+,,,,,Better Copper - ATM (3 Years),,Copper,[2,3[,,DSLSU
+,,,,,Better Copper - ATM (3 Years),,Copper,[3,4[,,DSL15
+,,,,,Better Copper - ATM (3 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Better Copper - ATM (5 Years),,Copper,< 1,,,DSLBS
+,,,,,Better Copper - ATM (5 Years),,Copper,[1,2[,,DSLST
+,,,,,Better Copper - ATM (5 Years),,Copper,[2,3[,,DSLSU
+,,,,,Better Copper - ATM (5 Years),,Copper,[3,4[,,DSL15
+,,,,,Better Copper - ATM (5 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Best Copper - ATM (Monthly),,Copper,< 1,,,DSLBS
+,,,,,Best Copper - ATM (Monthly),,Copper,[1,2[,,DSLST
+,,,,,Best Copper - ATM (Monthly),,Copper,[2,3[,,DSLSU
+,,,,,Best Copper - ATM (Monthly),,Copper,[3,4[,,DSL15
+,,,,,Best Copper - ATM (Monthly),,Copper,≥ 4,,,B1HVA
+,,,,,Best Copper - ATM (1 Year),,Copper,< 1,,,DSLBS
+,,,,,Best Copper - ATM (1 Year),,Copper,[1,2[,,DSLST
+,,,,,Best Copper - ATM (1 Year),,Copper,[2,3[,,DSLSU
+,,,,,Best Copper - ATM (1 Year),,Copper,[3,4[,,DSL15
+,,,,,Best Copper - ATM (1 Year),,Copper,≥ 4,,,B1HVA
+,,,,,Best Copper - ATM (2 Years),,Copper,< 1,,,DSLBS
+,,,,,Best Copper - ATM (2 Years),,Copper,[1,2[,,DSLST
+,,,,,Best Copper - ATM (2 Years),,Copper,[2,3[,,DSLSU
+,,,,,Best Copper - ATM (2 Years),,Copper,[3,4[,,DSL15
+,,,,,Best Copper - ATM (2 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Best Copper - ATM (3 Years),,Copper,< 1,,,DSLBS
+,,,,,Best Copper - ATM (3 Years),,Copper,[1,2[,,DSLST
+,,,,,Best Copper - ATM (3 Years),,Copper,[2,3[,,DSLSU
+,,,,,Best Copper - ATM (3 Years),,Copper,[3,4[,,DSL15
+,,,,,Best Copper - ATM (3 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Best Copper - ATM (5 Years),,Copper,< 1,,,DSLBS
+,,,,,Best Copper - ATM (5 Years),,Copper,[1,2[,,DSLST
+,,,,,Best Copper - ATM (5 Years),,Copper,[2,3[,,DSLSU
+,,,,,Best Copper - ATM (5 Years),,Copper,[3,4[,,DSL15
+,,,,,Best Copper - ATM (5 Years),,Copper,≥ 4,,,B1HVA
+,,,,,Good Copper - FTTN (Monthly),,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (Monthly),,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (Monthly),,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (Monthly),,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (Monthly),,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (Monthly),Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (Monthly),Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (Monthly),Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (Monthly),Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (Monthly),Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (Monthly),Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (1 Year),,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (1 Year),,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (1 Year),,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (1 Year),,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (1 Year),,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (1 Year),Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (1 Year),Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (1 Year),Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (1 Year),Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (1 Year),Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (1 Year),Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (2 Years),,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (2 Years),,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (2 Years),,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (2 Years),,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (2 Years),,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (2 Years),Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (2 Years),Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (2 Years),Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (2 Years),Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (2 Years),Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (2 Years),Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (3 Years),,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (3 Years),,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (3 Years),,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (3 Years),,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (3 Years),,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (3 Years),Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (3 Years),Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (3 Years),Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (3 Years),Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (3 Years),Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (3 Years),Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (5 Years),,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (5 Years),,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (5 Years),,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (5 Years),,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (5 Years),,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (5 Years),Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (5 Years),Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (5 Years),Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (5 Years),Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (5 Years),Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (5 Years),Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Better Copper - FTTN (Monthly),Business Line 1FL,Copper,[14,16[,,B1SCA
+,,,,,Better Copper - FTTN (Monthly),Business Line 1FL,Copper,[16,19[,,B1SCD
+,,,,,Better Copper - FTTN (Monthly),Business Line 1FL,Copper,≥ 19,,< 2,B1SCG
+,,,,,Better Copper - FTTN (Monthly),Business Line 1FL,Copper,≥ 19,,≥ 2,GS12T
+,,,,,Better Copper - FTTN (Monthly),Local Link,Copper,[14,16[,,B1SCB
+,,,,,Better Copper - FTTN (Monthly),Local Link,Copper,[16,19[,,B1SCE
+,,,,,Better Copper - FTTN (Monthly),Local Link,Copper,≥ 19,,< 2,B1SCH
+,,,,,Better Copper - FTTN (Monthly),Local Link,Copper,≥ 19,,≥ 2,B1SBB
+,,,,,Better Copper - FTTN (1 Year),Business Line 1FL,Copper,[14,16[,,B1SCA
+,,,,,Better Copper - FTTN (1 Year),Business Line 1FL,Copper,[16,19[,,B1SCD
+,,,,,Better Copper - FTTN (1 Year),Business Line 1FL,Copper,≥ 19,,< 2,B1SCG
+,,,,,Better Copper - FTTN (1 Year),Business Line 1FL,Copper,≥ 19,,≥ 2,GS12T
+,,,,,Better Copper - FTTN (1 Year),Local Link,Copper,[14,16[,,B1SCB
+,,,,,Better Copper - FTTN (1 Year),Local Link,Copper,[16,19[,,B1SCE
+,,,,,Better Copper - FTTN (1 Year),Local Link,Copper,≥ 19,,< 2,B1SCH
+,,,,,Better Copper - FTTN (1 Year),Local Link,Copper,≥ 19,,≥ 2,B1SBB
+,,,,,Better Copper - FTTN (2 Years),Business Line 1FL,Copper,[14,16[,,B1SCA
+,,,,,Better Copper - FTTN (2 Years),Business Line 1FL,Copper,[16,19[,,B1SCD
+,,,,,Better Copper - FTTN (2 Years),Business Line 1FL,Copper,≥ 19,,< 2,B1SCG
+,,,,,Better Copper - FTTN (2 Years),Business Line 1FL,Copper,≥ 19,,≥ 2,GS12T
+,,,,,Better Copper - FTTN (2 Years),Local Link,Copper,[14,16[,,B1SCB
+,,,,,Better Copper - FTTN (2 Years),Local Link,Copper,[16,19[,,B1SCE
+,,,,,Better Copper - FTTN (2 Years),Local Link,Copper,≥ 19,,< 2,B1SCH
+,,,,,Better Copper - FTTN (2 Years),Local Link,Copper,≥ 19,,≥ 2,B1SBB
+,,,,,Better Copper - FTTN (3 Years),Business Line 1FL,Copper,[14,16[,,B1SCA
+,,,,,Better Copper - FTTN (3 Years),Business Line 1FL,Copper,[16,19[,,B1SCD
+,,,,,Better Copper - FTTN (3 Years),Business Line 1FL,Copper,≥ 19,,< 2,B1SCG
+,,,,,Better Copper - FTTN (3 Years),Business Line 1FL,Copper,≥ 19,,≥ 2,GS12T
+,,,,,Better Copper - FTTN (3 Years),Local Link,Copper,[14,16[,,B1SCB
+,,,,,Better Copper - FTTN (3 Years),Local Link,Copper,[16,19[,,B1SCE
+,,,,,Better Copper - FTTN (3 Years),Local Link,Copper,≥ 19,,< 2,B1SCH
+,,,,,Better Copper - FTTN (3 Years),Local Link,Copper,≥ 19,,≥ 2,B1SBB
+,,,,,Better Copper - FTTN (5 Years),Business Line 1FL,Copper,[14,16[,,B1SCA
+,,,,,Better Copper - FTTN (5 Years),Business Line 1FL,Copper,[16,19[,,B1SCD
+,,,,,Better Copper - FTTN (5 Years),Business Line 1FL,Copper,≥ 19,,< 2,B1SCG
+,,,,,Better Copper - FTTN (5 Years),Business Line 1FL,Copper,≥ 19,,≥ 2,GS12T
+,,,,,Better Copper - FTTN (5 Years),Local Link,Copper,[14,16[,,B1SCB
+,,,,,Better Copper - FTTN (5 Years),Local Link,Copper,[16,19[,,B1SCE
+,,,,,Better Copper - FTTN (5 Years),Local Link,Copper,≥ 19,,< 2,B1SCH
+,,,,,Better Copper - FTTN (5 Years),Local Link,Copper,≥ 19,,≥ 2,B1SBB
+,,,,,Best Copper - FTTN (Monthly),Business Line 1FL,Copper,,,,GDSLQ
+,,,,,Best Copper - FTTN (Monthly),Local Link,Copper,,,,B1SBD
+,,,,,Best Copper - FTTN (1 Year),Business Line 1FL,Copper,,,,GDSLQ
+,,,,,Best Copper - FTTN (1 Year),Local Link,Copper,,,,B1SBD
+,,,,,Best Copper - FTTN (2 Years),Business Line 1FL,Copper,,,,GDSLQ
+,,,,,Best Copper - FTTN (2 Years),Local Link,Copper,,,,B1SBD
+,,,,,Best Copper - FTTN (3 Years),Business Line 1FL,Copper,,,,GDSLQ
+,,,,,Best Copper - FTTN (3 Years),Local Link,Copper,,,,B1SBD
+,,,,,Best Copper - FTTN (5 Years),Business Line 1FL,Copper,,,,GDSLQ
+,,,,,Best Copper - FTTN (5 Years),Local Link,Copper,,,,B1SBD
+,,,,,Good Fibre (Monthly),Business Line 1FL,Fibre,,,,B1SHC
+,,,,,Good Fibre (Monthly),Local Link,Fibre,,,,B1SHC
+,,,,,Good Fibre (1 Year),Business Line 1FL,Fibre,,,,B1SHC
+,,,,,Good Fibre (1 Year),Local Link,Fibre,,,,B1SHC
+,,,,,Good Fibre (2 Years),Business Line 1FL,Fibre,,,,B1SHC
+,,,,,Good Fibre (2 Years),Local Link,Fibre,,,,B1SHC
+,,,,,Good Fibre (3 Years),Business Line 1FL,Fibre,,,,B1SHC
+,,,,,Good Fibre (3 Years),Local Link,Fibre,,,,B1SHC
+,,,,,Good Fibre (5 Years),Business Line 1FL,Fibre,,,,B1SHC
+,,,,,Good Fibre (5 Years),Local Link,Fibre,,,,B1SHC
+,,,,,Better Fibre (Monthly),Business Line 1FL,Fibre,,,,B1SHD
+,,,,,Better Fibre (Monthly),Local Link,Fibre,,,,B1SHD
+,,,,,Better Fibre (1 Year),Business Line 1FL,Fibre,,,,B1SHD
+,,,,,Better Fibre (1 Year),Local Link,Fibre,,,,B1SHD
+,,,,,Better Fibre (2 Years),Business Line 1FL,Fibre,,,,B1SHD
+,,,,,Better Fibre (2 Years),Local Link,Fibre,,,,B1SHD
+,,,,,Better Fibre (3 Years),Business Line 1FL,Fibre,,,,B1SHD
+,,,,,Better Fibre (3 Years),Local Link,Fibre,,,,B1SHD
+,,,,,Better Fibre (5 Years),Business Line 1FL,Fibre,,,,B1SHD
+,,,,,Better Fibre (5 Years),Local Link,Fibre,,,,B1SHD
+,,,,,Best Fibre (Monthly),Business Line 1FL,Fibre,,,,B1SHB
+,,,,,Best Fibre (Monthly),Local Link,Fibre,,,,B1SHB
+,,,,,Best Fibre (1 Year),Business Line 1FL,Fibre,,,,B1SHB
+,,,,,Best Fibre (1 Year),Local Link,Fibre,,,,B1SHB
+,,,,,Best Fibre (2 Years),Business Line 1FL,Fibre,,,,B1SHB
+,,,,,Best Fibre (2 Years),Local Link,Fibre,,,,B1SHB
+,,,,,Best Fibre (3 Years),Business Line 1FL,Fibre,,,,B1SHB
+,,,,,Best Fibre (3 Years),Local Link,Fibre,,,,B1SHB
+,,,,,Best Fibre (5 Years),Business Line 1FL,Fibre,,,,B1SHB
+,,,,,Best Fibre (5 Years),Local Link,Fibre,,,,B1SHB
+,,,,,Super Product - FTTN (Monthly),Business Line 1FL,Copper,,,,GDSLT
+,,,,,Super Product - FTTN (Monthly),Local Link,Copper,,,,B1SAA
+,,,,,Super Product - FTTN (1 Year),Business Line 1FL,Copper,,,,GDSLT
+,,,,,Super Product - FTTN (1 Year),Local Link,Copper,,,,B1SAA
+,,,,,Super Product - FTTN (2 Years),Business Line 1FL,Copper,,,,GDSLT
+,,,,,Super Product - FTTN (2 Years),Local Link,Copper,,,,B1SAA
+,,,,,Super Product - FTTN (3 Years),Business Line 1FL,Copper,,,,GDSLT
+,,,,,Super Product - FTTN (3 Years),Local Link,Copper,,,,B1SAA
+,,,,,Super Product - FTTN (5 Years),Business Line 1FL,Copper,,,,GDSLT
+,,,,,Super Product - FTTN (5 Years),Local Link,Copper,,,,B1SAA
+,,,,,Super Product - FTTB (Monthly),Business Line 1FL,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (Monthly),Local Link,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (1 Year),Business Line 1FL,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (1 Year),Local Link,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (2 Years),Business Line 1FL,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (2 Years),Local Link,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (3 Years),Business Line 1FL,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (3 Years),Local Link,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (5 Years),Business Line 1FL,Fibre,,,,B1SEA
+,,,,,Super Product - FTTB (5 Years),Local Link,Fibre,,,,B1SEA
+,,,,,Take the Hill - FTTB (Monthly),Business Line 1FL,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (Monthly),Local Link,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (1 Year),Business Line 1FL,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (1 Year),Local Link,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (2 Years),Business Line 1FL,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (2 Years),Local Link,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (3 Years),Business Line 1FL,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (3 Years),Local Link,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (5 Years),Business Line 1FL,Fibre,,,,B1SHA
+,,,,,Take the Hill - FTTB (5 Years),Local Link,Fibre,,,,B1SHA
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,Local Link,Copper,≥ 12,,,B1SCN
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,,Copper,< 1,,,DSLBS
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,,Copper,[1,2[,,DSLST
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,,Copper,[2,3[,,DSLSU
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,,Copper,[3,6[,,DSL15
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,,Copper,[6,7[,,B1HVA
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,Business Line 1FL,Copper,[7,10[,,B1SCJ
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,Business Line 1FL,Copper,[10,12[,,GDSLF
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,Business Line 1FL,Copper,≥ 12,,,B1SCM
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,Local Link,Copper,[7,10[,,B1SCK
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,Local Link,Copper,[10,12[,,GDSLK
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,Local Link,Copper,≥ 12,,,B1SCN
+,,,,,,,,,,,
+,,,,,Good Copper - ATM (Monthly),,Fibre,,,,B1SHC
+,,,,,Good Copper - ATM (1 Year),,Fibre,,,,B1SHC
+,,,,,Good Copper - ATM (2 Years),,Fibre,,,,B1SHC
+,,,,,Good Copper - ATM (3 Years),,Fibre,,,,B1SHC
+,,,,,Good Copper - ATM (5 Years),,Fibre,,,,B1SHC
+,,,,,Better Copper - ATM (Monthly),,Fibre,,,,B1SHC
+,,,,,Better Copper - ATM (1 Year),,Fibre,,,,B1SHC
+,,,,,Better Copper - ATM (2 Years),,Fibre,,,,B1SHC
+,,,,,Better Copper - ATM (3 Years),,Fibre,,,,B1SHC
+,,,,,Better Copper - ATM (5 Years),,Fibre,,,,B1SHC
+,,,,,Best Copper - ATM (Monthly),,Fibre,,,,B1SHC
+,,,,,Best Copper - ATM (1 Year),,Fibre,,,,B1SHC
+,,,,,Best Copper - ATM (2 Years),,Fibre,,,,B1SHC
+,,,,,Best Copper - ATM (3 Years),,Fibre,,,,B1SHC
+,,,,,Best Copper - ATM (5 Years),,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (Monthly),,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (1 Year),,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (2 Years),,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (3 Years),,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (5 Years),,Fibre,,,,B1SHC
+,,,,,Better Copper - FTTN (Monthly),,Fibre,,,,B1SHD
+,,,,,Better Copper - FTTN (1 Year),,Fibre,,,,B1SHD
+,,,,,Better Copper - FTTN (2 Years),,Fibre,,,,B1SHD
+,,,,,Better Copper - FTTN (3 Years),,Fibre,,,,B1SHD
+,,,,,Better Copper - FTTN (5 Years),,Fibre,,,,B1SHD
+,,,,,Best Copper - FTTN (Monthly),,Fibre,,,,B1SHB
+,,,,,Best Copper - FTTN (1 Year),,Fibre,,,,B1SHB
+,,,,,Best Copper - FTTN (2 Years),,Fibre,,,,B1SHB
+,,,,,Best Copper - FTTN (3 Years),,Fibre,,,,B1SHB
+,,,,,Best Copper - FTTN (5 Years),,Fibre,,,,B1SHB
+,,,,,Super Product - FTTN (Monthly),,Fibre,,,,B1SEA
+,,,,,Super Product - FTTN (1 Year),,Fibre,,,,B1SEA
+,,,,,Super Product - FTTN (2 Years),,Fibre,,,,B1SEA
+,,,,,Super Product - FTTN (3 Years),,Fibre,,,,B1SEA
+,,,,,Super Product - FTTN (5 Years),,Fibre,,,,B1SEA
+,,,,,Good Copper - FTTN (Monthly) - Connection Hub,,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (1 Year) - Connection Hub,,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (2 Years) - Connection Hub,,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (3 Years) - Connection Hub,,Fibre,,,,B1SHC
+,,,,,Good Copper - FTTN (5 Years) - Connection Hub,,Fibre,,,,B1SHC
