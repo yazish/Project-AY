@@ -4,7 +4,7 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 import pandas as pd
 import os
-os.environ["OPENAI_API_KEY"] = r"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"
+os.environ["OPENAI_API_KEY"] = r"***************************"
 
 loader = CSVLoader(file_path=r'./dateset.csv')    
 
@@ -17,3 +17,4 @@ query = input("Type the Query  ")
 response = chain({"question": query})
 print(response['result'])
 print("--------------------------------")
+
